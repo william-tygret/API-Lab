@@ -15,6 +15,8 @@ In this lab, you will be exploring the [Flickr API](https://www.flickr.com/servi
 
 First, sign up for a Yahoo! account (sorry, there's no way to avoid it). Get the API key and save it somewhere.
 
+Allocate 15 minutes for each task.
+
 Task #1:
 
 Find the api call that allows you to search for all images of "cats".
