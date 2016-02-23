@@ -1,14 +1,13 @@
-##### Task #1: Find the api call that allows you to search for all images of "cats".
+Task #1:     a7e37a446fab625910ab20cb3abbd476
 
-API Call:
+API Call:  https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=a7e37a446fab625910ab20cb3abbd476&tags=cat
 
-##### Task #2: Find the api call that allows you to search for all images from "Charlotte, North Carolina.
+Task #2:
 
-API Call:
+API Call: https://api.flickr.com/services/rest/?method=flickr.places.find&api_key=a7e37a446fab625910ab20cb3abbd476&woeid=2357112&query=charlotte
 
-##### Task #3: Get all of the comments for any photo.
+API Call: https://www.flickr.com/services/rest/?method=flickr.photos.comments.getList&api_key=a7e37a446fab625910ab20cb3abbd476&photo_id=18149663983
 
-API Call:
+Task #4:
 
-##### Task #4: Search for a list of all the photos in your current latitude and longitude.
-API Call:
+API Call: https://api.flickr.com/services/rest/?method=flickr.places.findByLatLon&api_key=a7e37a446fab625910ab20cb3abbd476&lat=40.739219&lon=-73.989951
