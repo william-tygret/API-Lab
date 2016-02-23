@@ -19,6 +19,14 @@ Task #1:
 
 Find the api call that allows you to search for all images of "cats".
 
+Task #2:
+
+Find the api call that allows you to search for all images from "Charlotte, North Carolina.
+
+Task #3:
+
+
+
 
 #### Requirements
 
