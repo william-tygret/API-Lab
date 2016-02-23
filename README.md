@@ -25,6 +25,8 @@ Find the api call that allows you to search for all images from "Charlotte, Nort
 
 Task #3:
 
+Get all of the comments for any photo.
+
 
 
 
