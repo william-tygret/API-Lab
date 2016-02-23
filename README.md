@@ -27,6 +27,9 @@ Task #3:
 
 Get all of the comments for any photo.
 
+Task #4:
+
+Search for a list of all the photos in your current latitude and longitude.
 
 
 
